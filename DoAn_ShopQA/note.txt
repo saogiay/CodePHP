@@ -1,0 +1,5 @@
+1->tạo migrate
+2->seeder
+3->tạo model
+4->add Relationshop
+(Repository nằm giữa model và controller.thay vì viết code xử lí trong controller thì ta viết ở repo rồi gọi các hàm ra controller)
